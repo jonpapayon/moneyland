@@ -1,2 +1,2 @@
 # moneyland
-oficial repository for moneland. a website for Ernesto
+oficial repository for moneyland. a website for Ernesto
